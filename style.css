@@ -1,0 +1,46 @@
+h1 {
+    color: gold;
+    background-color: black;
+}
+
+h2 {
+    color: aqua;
+}
+
+.header{
+    color: royalblue;
+    display : flex;
+    justify-content: center;
+}
+
+.menu{
+    font-family: fantasy; 
+    justify-content: right;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p , h2 {
+    text-align: center;
+}
+
+body{
+    background-color:black;
+}
+
+.item {
+    background-color: blanchedalmond;
+}
+
+.container {
+    align-content: space-between
+  }
